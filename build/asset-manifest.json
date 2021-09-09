@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rpg-character-maker/static/css/main.d6329e87.chunk.css",
+    "main.js": "/rpg-character-maker/static/js/main.b18cab7d.chunk.js",
+    "main.js.map": "/rpg-character-maker/static/js/main.b18cab7d.chunk.js.map",
+    "runtime-main.js": "/rpg-character-maker/static/js/runtime-main.b3a52d2b.js",
+    "runtime-main.js.map": "/rpg-character-maker/static/js/runtime-main.b3a52d2b.js.map",
+    "static/css/2.c490997a.chunk.css": "/rpg-character-maker/static/css/2.c490997a.chunk.css",
+    "static/js/2.b645d8e1.chunk.js": "/rpg-character-maker/static/js/2.b645d8e1.chunk.js",
+    "static/js/2.b645d8e1.chunk.js.map": "/rpg-character-maker/static/js/2.b645d8e1.chunk.js.map",
+    "index.html": "/rpg-character-maker/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/rpg-character-maker/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.d6329e87.chunk.css.map": "/rpg-character-maker/static/css/main.d6329e87.chunk.css.map",
+    "static/js/2.b645d8e1.chunk.js.LICENSE.txt": "/rpg-character-maker/static/js/2.b645d8e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3a52d2b.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.b645d8e1.chunk.js",
+    "static/css/main.d6329e87.chunk.css",
+    "static/js/main.b18cab7d.chunk.js"
+  ]
+}
